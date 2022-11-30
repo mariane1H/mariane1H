@@ -1,9 +1,8 @@
 # sobre mim
 - 👋 ola meu nome é @mariane
-meu email de contato é mariane.casal.silva@escola.pr.gov.br
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 meu email de contato é mariane.casal.silva@escola.pr.gov.br
+- 🌱 eu estou interessado em aprender a programar novas linguagens
+- 💞️ eu estou aprendendo a programar recentemente linguagem de javascript e scratch
+- 📫
 
 
